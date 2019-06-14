@@ -15,4 +15,7 @@ massive(CONNECTION_STRING).then(db => {
     console.log('Database running')
 })
 
+app.get
+
+
 app.listen(SERVER_PORT, () => console.log('Listening on port', SERVER_PORT))
